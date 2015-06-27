@@ -57,6 +57,13 @@ Features about this project:
 <b>Vector Attack Scanner: new UI:</b><br>
 [![Dissamble Part 1/2](http://img.youtube.com/vi/5aO_A3a2svw/0.jpg)](https://www.youtube.com/watch?v=5aO_A3a2svw)
 
+<b>Vector Attack Scanner: APK analysis:</b><br>
+[![APK analysis](http://img.youtube.com/vi/rITHwlKTivs/0.jpg)](https://www.youtube.com/watch?v=rITHwlKTivs)
+
+<b>Vector Attack Scanner: ELF analysis:</b><br>
+[![ELF analysis](http://img.youtube.com/vi/RUykRiwR0R0/0.jpg)](https://www.youtube.com/watch?v=RUykRiwR0R0)
+
+
 This code was developed by me: Jheto Xekri
 
 You can contact me in:
