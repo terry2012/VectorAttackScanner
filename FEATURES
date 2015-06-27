@@ -1,0 +1,37 @@
+This is a complete list about #VectorAttackScanner
+
+Analysis apk and so/elf
+Extract apk and so/elf
+Scanner AIDL (Android Interface Definition Language)
+Analysis ssl pining and man in the middle
+Disassemble resources and sources
+Mapping classes, methods and imports
+Analysis backendless (MBaaS - Mobile Backend As A Service) libs
+Analysis Network traffic
+Analysis crash on classes
+CA certificates extractor, APK embedded certificates and Url certificate catcher.
+Analysis cryptografic API's
+Analysis intent filters
+Analysis file system permissions
+Analysis SH (Shell Scripts)
+Analysis webview xss and injections.
+Crash log view
+Dinamic code injection
+Fuzzing on intents and native libs (SO/ELF)
+Hooking native libs / java libs / JNI libs
+Analysis framework
+Url certificate catcher
+Analisys of reflexing code
+Shellcode detector
+Analysis apps vulnerable to cloning cards
+Scanner unsecure storage
+Hooking passing intents
+Hooking current activity
+Process Log Monitor
+Netstat log
+Detect keystores
+Detect websockets libs
+Detect url burned or hardcoded
+Detect Carding/cloning/ripping libs
+Regex analyzer, where the implements this
+How to Fix This Problem and unsecure practices

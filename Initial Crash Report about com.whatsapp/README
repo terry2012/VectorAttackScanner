@@ -1,0 +1,5 @@
+This is only a initial search in the Whatsapp aplication for Android, this are detected in a first block of 50 class, according to the average could be around 160 Crash in other class.
+
+Good job, Whatsapp developers unknown try{}catch(Exception e){} sentence ...
+
+Google Play: https://play.google.com/store/apps/details?id=com.whatsapp
