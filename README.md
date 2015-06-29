@@ -11,7 +11,7 @@ It is well known in the world of IT Security, that have been created countermeas
 
 For now this tool only check ELF Binary Format, searching RELRO, PAX, PIE, ASLR, NX, RPATH, RUNPATH, StackCanary and FORTIFY SOURCE protections.
 
-Coming soon i publish this app in the Google Play with a free / pay version, but I prefer to publish it as open source, for the benefit of the community, it's just that I need to raise money to pay my debts and things related to my health, If anyone can assist me with this project to move the OpenSource, his advice would be welcome ...
+Coming soon i publish this app in the Google Play with a free / pay version.
 
 Features about this project:
 
